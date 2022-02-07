@@ -1,0 +1,3 @@
+[submodule "igmc_model"]
+	path = igmc_model
+	url = https://github.com/muhanzhang/IGMC.git
